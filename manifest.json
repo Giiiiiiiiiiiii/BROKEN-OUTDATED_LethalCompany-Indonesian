@@ -1,0 +1,9 @@
+{
+  "name": "Indonesian_Company",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Giiiiiiiiiiiii/LethalCompany-Indonesian",
+  "description": "[Localization / Translation] Mod translation for Indonesian people. Enjoy",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
