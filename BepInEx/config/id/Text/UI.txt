@@ -1,0 +1,183 @@
+﻿# UI
+
+(Cannot hold until ship has landed)=(Tidak bisa di ambil sampai kapal mendarat)
+(Dead)=(Mati)
+(Requires battery-powered item)=(Memerlukan barang yang ditenagai baterai)
+(Spectating: )=(Menonton: )
+[LIFE SUPPORT: OFFLINE]=[STATUS KEHIDUPAN: OFFLINE]
+
+# A-M
+Alert! The autopilot is leaving due to dangerous conditions.=Peringatan! Autopilot akan pergi karena kondisi berbahaya.
+ALERT!=PERINGATAN!
+An error occurred!=Terjadi kesalahan!
+An error occured!=Terjadi kesalahan!
+
+Blast=Ledakan
+bludgeoning=Memukul
+BROADCASTED SPECIAL CODE=KODE KHUSUS DISEBARKAN
+Buy flashlights and travel to new planets!=Beli senter dan lakukan perjalanan ke planet baru!
+
+Can't stay closed forever=Tidak bisa tetap tertutup selamanya
+Change suit=Ganti baju
+Change: Green suit=Ganti: Baju hijau
+Change: Hazard suit=Ganti: Baju hazard
+Change: Pajama suit=Ganti: Baju piyama
+Confirm changes?=Konfirmasi perubahan?
+Continue=Lanjutkan
+Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Tidak bisa terhubung ke server STEAM! (Jika Anda hanya ingin bermain di jaringan lokal, pilih LAN saat peluncuran.)
+CREW:=KRU:
+
+CRITICAL INJURY=LUKA KRITIS
+
+DEADLINE:\n NOW=BATAS WAKTU:\n SEKARANG
+Door controls=Kontrol pintu
+DOOR HYDRAULICS:=HYDRAULICS PINTU:
+Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Jatuhkan barang logam Anda sekarang! Muatan statis terdeteksi. Anda memiliki beberapa detik tersisa untuk hidup!
+
+EMPLOYEE RANK=PANGKAT KARYAWAN
+Employee=Karyawan
+Error! Could not get the lobby data. Are you offline?=Kesalahan! Tidak bisa mendapatkan data lobi. Apakah Anda sedang offline?
+
+Fines=Denda
+
+Got scrap!=Mendapatkan rongsokan!
+Gunshots=Tembakan senjata api
+
+HALT!=BERHENTI!
+HANDS FULL=TANGAN PENUH
+
+Intern=Magang
+Inventory full!=Inventori penuh!
+Item collected!=Barang terkumpul!
+
+Lands the ship.=Mendaratkan kapal.
+Leader=Pemimpin
+Locked=Terkunci
+LOADING WORLD...=MEMUAT DUNIA... 
+Loading server list...=Memuat daftar server...
+
+Mauling=Pengeroyokan
+Most profitable=Paling menguntungkan
+
+# N-Z
+New creature data sent to terminal!=Data makhluk baru dikirim ke terminal!
+NEW PROFIT QUOTA:=KUOTA PROFIT BARU:
+None=Tidak ada
+Notes: \n=Catatan: \n
+Notes:=Catatan:
+
+Option A=Pilihan A
+
+Paycheck!=Gaji!
+PERFORMANCE REPORT= LAPORAN KINERJA
+Picking lock: (.+) sec.=Membuka kunci: $1 detik.
+PILOT COMPUTER=KOMPUTER PILOT
+
+#Player in Latin is "Lūdēns"
+Player=Pemain
+Press "/" to talk.=Tekan "/" untuk berbicara.
+Price=Harga
+PRIVATE means you must send invites through Steam for players to join.=PRIBADI berarti Anda harus mengirim undangan melalui Steam agar pemain dapat bergabung.
+PUBLIC means your game will be visible on the server list for all to see.=PUBLIK berarti permainan Anda akan terlihat di daftar server untuk semua orang.
+Public=Publik
+Push to talk:=Tekan untuk berbicara:
+
+QUOTA REACHED!=KUOTA TERCAPAI!
+Quota=Kuota
+
+RECEIVING SIGNAL=MENERIMA SIGNAL
+
+r:"^(.*) \n AM"=AM $1
+r:"^(.*) \n PM"=PM $1
+r:"^(.*) EXP$"=EXP $1
+r:"^(.*) FPS$"=FPS $1
+r:"^(.*)\nAM"=AM $1
+r:"^(.*)\nPM"=PM $1
+r:"^(.+?)joined the ship(.+?)$"=$1 bergabung ke kapal $2
+r:"^Player: (.+)"=Pemain: $1
+r:"^(.+) (Days|Day) Left$=$1 Tersisa Hari
+r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 korban: $2\n($3 tubuh ditemukan)
+r:"^(.+) started the ship."=$1 memulai kapal.
+r:"^(.+) was left behind."=$1 ditinggalkan.
+r:"^([0-9]+) lb$=$1 lb
+r:"^(\$[0-9]+)\nDays: ([0-9]+)$"=$1\nHari: $2
+r:"^^(Current input device: \n)(.*)$"=Perangkat masukan saat ini:$2
+r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Suara)
+r:"^\(Spectating: (.+)\)$"=(Menyaksikan: $1)
+r:"^\[Cooldown : (.+)s\]$"=[Waktu Jeda: $1 detik]
+r:"^\[MODDED\](.+?)$=[MODIFIKASI]$1
+r:"^Body of (.+)$"=Tubuh $1
+r:"^Casualties \((.+)\): (.+)$"=Korban ($1): $2
+r:"^CELESTIAL BODY: (.+?)$=BENDA LANGIT: $1
+r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Hari bekerja: $1\nNilai pecahan logam terkumpul: $2\nKematian: $3\nLangkah yang diambil: $4
+r:"^DEADLINE:\n([0-9]+) Days$"=BATAS WAKTU:\n$1 Hari
+r:"^DUE: (\$[0-9]+)$"=JATUH TEMPO: $1
+r:"^File ([0-9]+)$"=Berkas $1
+r:"^MONITORING: (.+)$"=PEMANTAUAN: $1
+r:"^Overtime bonus: (.+)$"=Bonus lembur: $1
+r:"^PROFIT QUOTA:\n(\$[0-9]+) / (\$[0-9]+)$"=KUOTA UNTUNG:\n$1 / $2
+r:"^Random seed: ([0-9]+)$"=Bibit acak: $1
+r:"^(.*)Random seed(.*)$"=Bibit acak: $2
+r:"^SHIP: (.+)$"=KAPAL: $1
+r:"^TOTAL: (.+)$"=TOTAL: $1
+r:"^Value: (.+)"=Nilai: $1
+r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=PERINGATAN! Silakan kembali sebelum pukul $1. Suara telah dilempar, dan kapal autopilot akan pergi lebih awal.
+
+Random seed: {{A}}=Seed acak: {{A}}
+Random seed: =Seed acak: 
+
+Sell scrap for cash.=Jual rongsokan untuk uang.
+Ship leaving in one hour=Kapal akan berangkat dalam satu jam!
+
+sr:"^(.+?)collected!$"=$1 terkumpul!
+sr:"^Cause of death: (.+)$"=Penyebab kematian: $1
+sr:"^Drop (.+?): \[G\]$"=Lepaskan $1: [G]
+sr:"^Spray : \[LMB\]$"=\nSemprot: [LMB]
+sr:"^Shake can : \[Q\]$"=\nGoyangkan kaleng: [Q]
+sr:"^Found journal entry: (.+)$"=Menemukan catatan jurnal: $1 
+sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Catatan: \n* $1\n* $2\n* $3 \n* $4\n
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=Mengorbit: $1\nPopulasi: $2\nKondisi: $3\nFauna: $4$5$6
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=Mengorbit: $1\nPopulasi: $2\nKondisi: $3\nFauna: $4\nCuaca: $5
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)$"=Populasi: $1\nKondisi: $2\nFauna: $3
+sr:"^POPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\n([\s\S]+)$"=Populasi: $1\nKondisi: $2\nFauna: $3
+
+SPIDER=LABA-LABA
+Stats=Statistik
+Strangulation=Strangulasi
+Sustained the most injuries.=Mengalami cedera paling parah
+SYSTEMS ONLINE=SISTEM ONLINE
+
+Tell autopilot ship to leave early : [RMB] (Hold)=Beritahu kapal autopilot untuk pergi lebih awal: [RMB] (Tahan)
+Terminal=Terminal
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Autopilot sekarang akan mencoba terbang ke tempat pelabuhan antariksa terdekat yang aman. Barang-barang Anda hilang.
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=Perusahaan harus meminimalkan risiko kerusakan pada perangkat keras propietary. Selamat tinggal!
+The file will NOT save! Your ship must be in orbit.=Berkas tidak akan disimpan! Kapal Anda harus berada di orbit.
+The laziest employee.=Karyawan paling malas.
+The host has not loaded or has already landed their ship.=Tuan rumah belum memuat data atau sudah mendaratkan kapal mereka.
+The most paranoid employee.=Karyawan paling paranoid.
+TIP:=TIPS:
+TO MEET PROFIT QUOTA=BUAT MEMENUHI KUOTA UNTUNG
+To sell, use the terminal to route the ship to the company building.=Untuk menjual, gunakan terminal untuk mengarahkan kapal ke bangunan perusahaan.
+TOTAL:=TOTAL:
+Training manual=Panduan pelatihan
+Typing...=Mengetik...
+
+Uncapped=Tidak dibatasi
+Use the ship computer terminal to access secure doors.=Gunakan terminal komputer kapal untuk mengakses pintu yang aman.
+Useful info!=Informasi berguna!
+
+Value: ???=Nilai: ???
+VISIBILITY LOW!\n\nSteam leak detected in area=VISIBILITAS RENDAH!\n\nKebocoran uap terdeteksi di area!
+Voice volume=Volume suara
+Voted for ship to leave early=Memilih agar kapal pergi lebih awal.
+
+Waiting for crew...=Menunggu kru...
+Waiting for input=Menunggu masukan
+Warning! No response from crew, which has not returned. Emergency code activated.=Peringatan! Tidak ada tanggapan dari kru, yang belum kembali. Kode darurat diaktifkan..
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=PERINGATAN!!! Kapal autopilot akan pergi pada tengah malam. Silakan kembali dengan cepat.
+
+YOU ARE FIRED.=ANDA DIPECAT.
+You did not meet the profit quota before the deadline.=Anda tidak memenuhi kuota keuntungan sebelum batas waktu.
+You did not meet the profit quota before the deadline.=Anda tidak memenuhi kuota keuntungan sebelum batas waktu.
+You have landed in an eclipse. Exercise caution!=Anda telah mendarat di dalam gerhana. Berhati-hatilah!
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Anda tidak memiliki hari lagi untuk mencapai kuota. Gunakan terminal untuk menuju ke perusahaan dan jual.
