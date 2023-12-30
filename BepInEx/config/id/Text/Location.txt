@@ -1,0 +1,60 @@
+﻿# Location
+# TODO: Review and Standardize
+
+# Planets/moons
+# Don't edit, since you need to be able to navigate to them
+21 Offense=21 Offense
+220 Assurance=220 Assurance
+31 March=31 March
+41 Experimentation=41 Experimentation
+56 Vow=56 Vow
+61 March=61 March
+71 Gordion=71 Gordion
+85 Rend=85 Rend
+
+# A-M
+A competitive ecosystem supports aggressive lifeforms.=Ekosistem yang kompetitif mendukung bentuk kehidupan yang agresif.
+Abandoned=Ditinggalkan
+Arid. Thick haze, worsened by industrial artifacts.=Kering. Kabut tebal, diperburuk oleh artefak industri.
+
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=Entitas berbahaya dikabarkan tinggal di jaringan terowongan yang luas.
+Diverse=Beragam
+Dominated by a few species.=Didominasi oleh beberapa spesies.
+
+Eclipsed=Gerhana
+(Eclipsed)=(Gerhana)
+Ecosystem supports territorial behaviour.=Ekosistem mendukung perilaku territorial.
+Ecosystem supports territorial behaviour.=Ekosistem mendukung perilaku territorial.
+Expansive. Constant rain.=Luas. Hujan terus-menerus.
+
+#Original Latin word was Inundaatum, so this checks out.
+Flooded=Banjir
+Foggy=Berkabut
+Frozen, rocky. Its planet orbits a white dwarf star.=Beku, berbatu. Planet ini mengorbit dwarf putih.
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Beku, berbatu. Bulan ini ditambang untuk sumber daya. Mudah tersesat di sini.
+
+HAZARD LEVEL:=BAHAYA:
+Home base=Base Utama
+Humid. Rough terrain. Teeming with plant-life.=Lembab. Medan kasar. Penuh dengan kehidupan tumbuhan.
+
+Jagged and weathered terrain. =Medan yang bergerigi dan lapuk. 
+Jagged and weathered terrain.=Medan yang bergerigi dan lapuk. 
+
+Main entrance=Pintu Utama
+
+# N-Z
+No land masses. Continual storms.=Tidak ada daratan. Badai terus menerus.
+
+Oxygen critically low!=Oksigen sangat rendah!
+
+#Latin is Pluvia lol.
+Rainy=Hujan
+
+Safe=Aman
+Stormy=Badai
+Stormy=Badai
+
+Unlikely for complex life to exist\n=Tidak mungkin ada kehidupan yang kompleks\n
+Unknown=Tidak diketahui
+Unknown\nWhere the Company resides.\n=Tidak diketahui\nDi mana Perusahaan berada.\n
+Unlikely for complex life to exist.=Tidak mungkin ada kehidupan yang kompleks.

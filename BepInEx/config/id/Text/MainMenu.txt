@@ -1,0 +1,190 @@
+﻿# Menu Utama
+#TODO: Tinjau dan Standarisasi
+
+  CONFIRM=  KONFIRMASI
+  CONFIRM=  KONFIRMASI
+  DISABLED=NON-AKTIF
+  LAN=  LAN
+  Online=  Online
+(Recommended)=(Rekomendasi)
+(Launched in LAN mode)=(Diluncurkan dalam mode LAN)
+[ Back ]=[ Kembali ]
+[ Confirm ]=[ Konfirmasi ]
+[ Continue ]=[ Lanjutkan ]
+[ Refresh ]=[ Refresh ]
+
+> Back to menu=> Kembali ke Menu
+> Back=> Kembali
+> Cancel=> Batalkan
+> Confirm changes=> Konfirmasi Perubahan
+> Confirm=> Konfirmasi
+> CONFIRM=> KONFIRMASI
+> Credits=> Kredit
+> Host=> Buat Room
+
+# Teman dalam Bahasa Indonesia adalah Teman. Undang dalam Bahasa Indonesia adalah Undang.
+> Invite friends=> Undang Teman
+> Join a crew=> Bergabung dengan Kru
+> LAN=> LAN
+> Online=> Online
+> Quit=> Keluar
+> Reset all to default=> Atur Ulang ke Default
+> Resume=> Lanjutkan
+> Settings=> Pengaturan
+
+# A-M
+ACCESSIBILITY=AKSESIBILITAS
+Arachnophobia Mode=Mode Arachnophobia
+Adjust screen brightness until the symbol on the right is barely visible.=Atur kecerahan layar hingga simbol di sebelah kanan hanya terlihat.
+An error occured when syncing the scene! The host might not have loaded in.=Terjadi kesalahan saat menyinkronkan adegan! Tuan rumah mungkin belum dimuat.
+Autosaving...=Menyimpan otomatis...
+
+Back=Kembali
+BACK=KEMBALI
+
+> Change keybinds=> Ubah Tombol Keybind
+CONFIRM= KONFIRMASI
+Confirm=Konfirmasi
+CONTROLS=KONTROL
+Cosmetics Enabled:=Kosmetik Diaktifkan:
+Credits=Kredit
+Crew Size:=Ukuran Kru:
+
+Delete=Hapus
+Discard changes=Batalkan Perubahan
+Discard=Batalkan
+DISCARD=BATALKAN
+Display mode:=Mode Tampilan:
+DISPLAY=TAMPILAN
+
+ENABLED=DIHIDUPKAN
+Enter a lobby name!=Masukkan Nama Lobby！
+
+Frame rate cap:=Batas frame rate:
+Friends-only=Teman Saja
+Fullscreen=Layar Penuh
+
+Gamma/Brightness:=Gamma/Kecerahan:
+Go back=Kembali
+
+Host LAN Server:=Buat Room Server LAN:
+
+INSTABILITY:=KETIDAKSTABILAN:
+Invert Y-Axis=Balikkan Sumbu Y
+
+Join=Gabung
+
+LAN= LAN
+LAUNCH MODE=MODE LUNCUR
+Loading...=Memuat...
+Local-only=Lokal Saja
+Look sensitivity:=Kepekaan pandang:
+
+Master volume:=Volume utama:
+Max players...=Jumlah pemain maksimum...
+Maximized window=Jendela Dimaksimalkan
+MODE: Push to talk=MODE: Tekan untuk berbicara
+MODE: Voice activation=MODE: Aktivasi suara
+
+# N-Z
+Name your server...=Nama server Anda...
+
+Online= Online
+
+r:"^Do you want to delete File (.+)\?$"=Apakah Anda ingin menghapus File $1?
+
+Save File=Simpan File
+Server name:=Nama server:
+Servers=Server
+Sort: far=Sortir: Jauh
+Sort: near=Sortir: Dekat
+Sort: worldwide=Sortir: Seluruh Dunia
+Started server, joining...=Server dimulai, bergabung...
+
+The server host disconnected.=Tuan rumah server terputus.
+
+Unconfirmed changes!=Perubahan yang belum dikonfirmasi!
+Use monitor (V-Sync)=Gunakan monitor (V-Sync)
+
+Voice Volume=Volume Suara
+
+Welcome!=Selamat datang!
+Welcome! Version 45 is out now.\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Selamat datang!\nVersi 45 sudah keluar!\nOrang lain harus memperbarui permainan mereka untuk bermain dengan Anda pada versi ini.\nSemoga berhasil!
+Version 45 is out!=Versi 45 sudah keluar!
+W=W
+Window=Jendela
+Windowed fullscreen=Layar Penuh Jendela
+Would you like to leave the game?=Apakah Anda ingin meninggalkan permainan?
+
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Anda berada dalam mode LAN. Saat mengizinkan koneksi jarak jauh melalui LAN, pastikan Anda memiliki keamanan jaringan yang cukup seperti firewall dan/atau VPN.
+
+#Mengatur Ulang Kontrol
+Button East=Tombol Timur
+Button South=Tombol Selatan
+Button West=Tombol Barat
+Button North=Tombol Utara
+
+Control=Kontrol
+Crouch=Jongkok
+
+D-Pad/Down=D-Pad/Bawah
+D-Pad/Left=D-Pad/Kiri
+D-Pad/Right=D-Pad/Kanan
+D-Pad/Up=D-Pad/Atas
+Dance=Menari
+
+Enable chat=Aktifkan obrolan
+Enter=Masuk
+
+Interact=Interaksi
+Item Secondary use=Penggunaan Sekunder Barang
+Item Tertiary use=Penggunaan Tersier Barang
+Item drop=Jatuhkan Barang
+Item inspect=Memeriksa Barang
+Item primary use=Penggunaan Utama Barang
+Item secondary use=Penggunaan Sekunder Barang
+Item switch left=Beralih Barang ke Kiri
+Item switch right=Beralih Barang ke Kanan
+Item tertiary use=Penggunaan Tersier Barang
+
+Jump=Loncat
+
+Left Button=Tombol Kiri
+Left Shoulder=Bahu Kiri
+Left Stick Press=Tekan Stick Kiri
+Left Stick/Down=Stick Kiri/Bawah
+Left Stick/Left=Stick Kiri/Kiri
+Left Stick/Right=Stick Kiri/Kanan
+Left Stick/Up=Stick Kiri/Atas
+Left Trigger=Pemicu Kiri
+
+Move back=Mundur
+Move forward=Maju
+Move left=Ke Kiri
+Move right=Ke Kanan
+
+Ping scan=Pemindaian Ping
+Point=Tunjuk
+Push to talk=Tekan untuk Berbicara
+
+REBIND CONTROLLERS=Atur Ulang Pengontrol
+REMAP CONTROLS=Remap Kontrol
+Replace furniture=Ganti Furniture
+Right Button=Tombol Kanan
+Right Shoulder=Bahu Kanan
+Right Stick Press=Tekan Stick Kanan
+Right Trigger=Pemicu Kanan
+
+Scroll/Down=Scroll/Turun
+Scroll/Up=Scroll/Naik
+Shift=Shift
+Space=Spasi
+Sprint=Lari Cepat
+Store furniture=Simpan Furniture
+Submit chat=Kirim Obrolan
+Turn furniture=Putar Furniture
+
+Walk back=Berjalan Mundur
+Walk forward=Berjalan Maju
+Walk left=Berjalan ke Kiri
+Walk right=Berjalan ke Kanan
