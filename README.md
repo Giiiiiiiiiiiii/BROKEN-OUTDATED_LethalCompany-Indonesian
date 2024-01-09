@@ -24,6 +24,8 @@ ini berupa list yang udh saya custom dan tambahkan di dalamnya
 di rekomendasikan untuk mendownload semua mod yang ada di atas agar kinerja maksimal :)
 scroll ke bawah untuk melihat preview Localization
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## ABOUT
 The Indonesian Localization MOD that I made aims to make it easier for Indonesian players who have difficulty speaking English.
 This localization is still WIP so please wait for further updates, and apologize if there are wrong words and words that are not pleasant to see :)
@@ -46,6 +48,8 @@ This is a list that I have customized and added to it
 ## NOTE
 recommended to download all mods above for maximum performance :)
 scroll down to preview Localization
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Screenshot 2024-01-09 212858](https://github.com/Giiiiiiiiiiiii/LethalCompany-Indonesian/assets/131574222/6527047e-6a68-4969-bca2-e93f0e723978)
 ![Screenshot 2024-01-09 212848](https://github.com/Giiiiiiiiiiiii/LethalCompany-Indonesian/assets/131574222/c1d82596-25f6-40e9-9950-cfb36cfd3954)
