@@ -20,6 +20,12 @@ ini berupa list yang udh saya custom dan tambahkan di dalamnya
 - Custom Suit
 - Custom Delivery Sound
 
+yang ingin dilakukan
+- Menambahkan custom baru
+- Improve bahasa agar enak dilihat
+- Menambahkan bahasa indonesia buat mod lain
+- Menambahkan custom cosmetic dan items
+
 ## CATATAN
 di rekomendasikan untuk mendownload semua mod yang ada di atas agar kinerja maksimal :)
 scroll ke bawah untuk melihat preview Localization
@@ -44,6 +50,12 @@ this is the list that I have translated
 This is a list that I have customized and added to it
 - Custom Suit
 - Custom Delivery Sound
+
+to do
+- Added new custom
+- Improve the language to make it easier to look at
+- Added Indonesian language for other mods
+- Added custom cosmetics and items
 
 ## NOTE
 recommended to download all mods above for maximum performance :)
