@@ -21,7 +21,7 @@ ini berupa list yang udh saya custom dan tambahkan di dalamnya
 - Custom Delivery Sound
 
 yang ingin dilakukan
-- Menambahkan custom baru
+- Menambahkan suit custom baru
 - Improve bahasa agar enak dilihat
 - Menambahkan bahasa indonesia buat mod lain
 - Menambahkan custom cosmetic dan items
@@ -52,7 +52,7 @@ This is a list that I have customized and added to it
 - Custom Delivery Sound
 
 to do
-- Added new custom
+- Added new suit custom
 - Improve the language to make it easier to look at
 - Added Indonesian language for other mods
 - Added custom cosmetics and items
