@@ -7,7 +7,7 @@ Localization ini masih WIP jadi mohon di tunggu update selanjutkan, dan mohon ma
 Localization ini juga sudah ada beberapa custom indonesia lainnya seperti Custom Delivery menjadi WarWarTokopedia
 dan tambahan custom suit yang saya buat sendiri :)
 
-ini berupa list yang udh saya translate
+## LIST YANG UDAH SAYA TRANSLATE
 - UI
 - MainMenu
 - Interactive
@@ -16,29 +16,44 @@ ini berupa list yang udh saya translate
 - Creature
 - Terminal
 
-ini berupa list yang udh saya custom dan tambahkan di dalamnya
+## LIST YANG UDAH CUSTOM DAN TAMBAHKAN DI DALAMNYA
 - Custom Suit
 - Custom Delivery Sound
 
-yang ingin dilakukan
+## LIST CUSTOM SUIT YANG SAYA BUAT
+- Baju Cyan
+- Baju Indonesia
+- Baju Sparks
+- Baju Pepper
+- Baju Vine
+
+## LIST MOD LAIN YANG UDAH SAYA TRANSLATE
+- MoreEmotes
+- MoreSuit
+
+## LIST CUSTOM SOUND YANG SAYA TAMBAHKAN
+- Delivery Sound = WarWarTokopedia By Heiakim & Kobo Kanaeru
+
+## YANG INGIN DI LAKUKAN
 - Menambahkan suit custom baru
 - Improve bahasa agar enak dilihat
 - Menambahkan bahasa indonesia buat mod lain
 - Menambahkan custom cosmetic dan items
 
 ## CATATAN
-di rekomendasikan untuk mendownload semua mod yang ada di atas agar kinerja maksimal :)
+- Di rekomendasikan untuk mendownload semua mod yang ada di atas agar kinerja maksimal :)
 scroll ke bawah untuk melihat preview Localization
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Menggunakan mod lain yang belum berbahasa indonesia akan menyebabkan konflik bahasa yang akan tercampur inggris
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ABOUT
+## ABOUT THIS MOD
 The Indonesian Localization MOD that I made aims to make it easier for Indonesian players who have difficulty speaking English.
 This localization is still WIP so please wait for further updates, and apologize if there are wrong words and words that are not pleasant to see :)
 This localization also has several other Indonesian customs such as Custom Delivery to WarWarTokopedia
 and additional custom suits that I made myself :)
 
-this is the list that I have translated
+## LIST THAT I HAVE TRANSLATED
 - UI
 - MainMenu
 - Interactive
@@ -47,21 +62,37 @@ this is the list that I have translated
 - Creature
 - Terminal
 
-This is a list that I have customized and added to it
+## CUSTOMIZE LIST AND ADD TO IT
 - Custom Suit
 - Custom Delivery Sound
 
-to do
-- Added new suit custom
-- Improve the language to make it easier to look at
-- Added Indonesian language for other mods
-- Added custom cosmetics and items
+## LIST OF CUSTOM SUITS THAT I MADE
+- Cyan Suit
+- Indonesian Suit
+- Sparks suit
+- Pepper suit
+- Vine suit
+
+## LIST OF OTHER MODS THAT I HAVE TRANSLATED
+- MoreEmotes
+- MoreSuit
+
+## LIST OF CUSTOM SOUNDS I ADDED
+- Delivery Sound = WarWarTokopedia By Heiakim & Kobo Kanaeru
+
+## WHAT YOU WANT TO DO
+- Add new custom suits
+- Improve the language so that it is easy on the eyes
+- Add Indonesian language for other mods
+- Add custom cosmetic and items
 
 ## NOTE
-recommended to download all mods above for maximum performance :)
+- It is recommended to download all the mods above for maximum performance :)
 scroll down to preview Localization
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Using other mods that are not yet in Indonesian will cause language conflicts that will be mixed with English.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Screenshot 2024-01-09 212858](https://github.com/Giiiiiiiiiiiii/LethalCompany-Indonesian/assets/131574222/6527047e-6a68-4969-bca2-e93f0e723978)
 ![Screenshot 2024-01-09 212848](https://github.com/Giiiiiiiiiiiii/LethalCompany-Indonesian/assets/131574222/c1d82596-25f6-40e9-9950-cfb36cfd3954)
