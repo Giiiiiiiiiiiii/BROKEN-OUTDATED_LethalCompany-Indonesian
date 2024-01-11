@@ -1,0 +1,35 @@
+# MoreSuit
+Change: Glow=Ganti: Baju Glow
+Change: Kirby=Ganti: Baju Kirby
+Change: Knuckles=Ganti: Baju Knuckles
+Change: Luigi=Ganti: Baju Luigi
+Change: Mario=Ganti: Baju Mario
+Change: Minion=Ganti: Baju Minion
+Change: Skeleton=Ganti: Baju Skeleton
+Change: Slayer=Ganti: Baju Slayer
+Change: Smile=Ganti: Baju Smile
+Change: Sparks=Ganti: Baju Sparks
+Change: Cyan=Ganti: Baju Cyan
+Change: Indonesia=Ganti: Baju Indonesia
+Change: Pepper=Ganti: Baju Pepper
+Change: Vine=Ganti: Baju Vine
+
+# MoreEmotes
+Point=Tunjuk
+Dance=Joget
+Middle Finger=Jari Tengah
+Clap=Tepuk Tangan
+Shy=Malu
+The Griddy=Griddy
+Twerk=Goyang Pantat
+Salute=Hormat
+Sign=Tanda
+Prisyadka=Prisyadka
+Line Break [SHIFT+ENTER]=Hapus Tulisan [SHIFT+ENTER]
+PREVIEW=CONTOH
+CHARACTERS LEFT:=TULISAN YANG TERSISA:
+[ENTER/X] Submit=[ENTER/X] Kirim
+[RMB/B] Cancel=[RMB/B] Batal
+Enter Text...=Masukkan Teks...
+
+
