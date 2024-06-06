@@ -1,5 +1,5 @@
 # [BROKEN/OUTDATED] 
-~~# Lethal Company Indonesia Localization
+# Lethal Company Indonesia Localization
 ## MADE BY gi_.i/Gi
 
 ## TENTANG MOD INI
@@ -91,7 +91,7 @@ and additional custom suits that I made myself :)
 - It is recommended to download all the mods above for maximum performance :)
 scroll down to preview Localization
 
-- Using other mods that are not yet in Indonesian will cause language conflicts that will be mixed with English.~~
+- Using other mods that are not yet in Indonesian will cause language conflicts that will be mixed with English.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
