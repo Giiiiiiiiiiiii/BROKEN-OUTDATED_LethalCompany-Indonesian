@@ -1,4 +1,5 @@
-# [BROKEN/OUTDATED] Lethal Company Indonesia Localization
+# [BROKEN/OUTDATED] 
+# Lethal Company Indonesia Localization
 ## MADE BY gi_.i/Gi
 
 ## TENTANG MOD INI
